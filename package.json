@@ -10,7 +10,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
-    "test": "jest"
+    "test:ex:01": "jest 01-exercise --watch"
   },
   "repository": {
     "type": "git",

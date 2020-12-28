@@ -284,6 +284,16 @@ When we reference a module, if the module is not a core module of node.js, node 
 ../../../node_modules/module.js
 ```
 
+### 01-exercise
+
+Open the `01-exercise.js` file inside the `src/exercises/01-exercise` folder and solve the exercise by following the instructions. Then, you can check if your solution is correct by running from the terminal the following command:
+
+```bash
+$ npm run test:ex:01
+```
+
+For this part you have 15 minutes to solve it. If you get stuck you can find the solution inside the `01-exercise-solution` branch. Once the time has passed the instructor will solve the exercise.
+
 ## Author <!-- omit in toc -->
 
 [Dani Lucaci](https://github.com/danilucaci)
