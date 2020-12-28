@@ -1,0 +1,32 @@
+{
+  "name": "nodejs-intro-workshop",
+  "version": "1.0.0",
+  "description": "Assembler School: Node.js Intro Workshop",
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Dani Lucaci <dani@assemblerschool.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/assembler-school/nodejs-intro-workshop.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "@types/jest": "^26.0.19",
+    "babel-eslint": "^10.1.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.15.0",
+    "jest": "^26.6.3",
+    "nodemon": "^2.0.6",
+    "prettier": "2.2.1"
+  }
+}
