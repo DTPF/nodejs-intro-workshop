@@ -94,7 +94,7 @@ Create a `hello-world.js` inside the `src/utils` folder with the following code:
 console.log("hello-world from node.js");
 ```
 
-And the run it with node:
+And then run it with node:
 
 ```bash
 $ node src/utils/hello-world.js
