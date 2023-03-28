@@ -3,7 +3,6 @@
  *    and use it in the `add()` function to add it to the 2 parameters
  */
  const BASE_NUM = require('./constants.js');
-//  add(BASE_NUM, BASE_NUM)
 
 /**
  * 2. Use module.exports = { ... } to export 2 functions:
